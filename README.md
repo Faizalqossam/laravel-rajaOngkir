@@ -2,7 +2,7 @@
 <p align="center">Made with</p>
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" alt="Laravel logo" width="400"></a>
 <a href="https://getbootstrap.com" target="_blank"><img src="https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png" alt="Bootstrap logo" width="200"></a></p>
-<p align="center"><a href="http://zuramai.github.io/mazer" target="_blank"><img src="https://user-images.githubusercontent.com/45036724/167523601-9d20fb17-1989-488f-b619-cb53c0db8898.png" alt="Mazer Admin" width="500"></a></p>
+<p align="center"><a href="http://zuramai.github.io/mazer" target="_blank"><img src="https://image.opencart.com/cache/5829cb1ac975e-resize-710x380.jpg" alt="Raja Ongkir" width="500"></a></p>
 
 
 ## How to run
