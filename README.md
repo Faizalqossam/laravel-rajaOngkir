@@ -13,7 +13,7 @@ git clone https://github.com/Faizalqossam/project-akhir-jarvisbootcamp siloker
 2. Make database with name "laravel" on your MySQL
 3. Copy and Paste commandline below into your terminal
 ``` sh
-cd siloker
+cd laravel-rajaOngkir
 composer install
 cp .env.example .env
 ```
